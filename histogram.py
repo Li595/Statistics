@@ -3,7 +3,7 @@
 	Выполнено студентами ПИ-Б19-1 Быков Данила и Кашин Никита
 """
 #Импорты необходимых библиотек
-from random import randrange
+#from random import randrange - использовалось для создания импровизированной выборки
 import math
 import seaborn as sns
 import matplotlib.pyplot as plt
